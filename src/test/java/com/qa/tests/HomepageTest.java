@@ -1,6 +1,7 @@
 package com.qa.tests;
 
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
 public class HomepageTest {
 	@Test
