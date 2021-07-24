@@ -18,7 +18,7 @@ public class Logintest {
 	@BeforeClass
 	public void setup() {
 		driver = BaseClass.initialization(Config.browser, Config.url);
-		loginpage = PageFactory.initElements(driver, Loginpage.class);
+		loginpage = new Loginpage();
 	}
 
 	@Test
