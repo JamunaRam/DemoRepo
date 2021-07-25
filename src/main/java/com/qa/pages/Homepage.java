@@ -75,4 +75,16 @@ public class Homepage extends BaseClass {
 		BaseClass.waitE_C(submit).click();
 	}
 
+/*
+ * @FindBy(xpath = "New Customer") WebElement newcust;
+ * 
+ * @FindBy(xpath = "New Customer") WebElement newcust;
+ * 
+ * @FindBy(xpath = "New Customer") WebElement newcust;
+ * 
+ * @FindBy(xpath = "New Customer") WebElement newcust;
+ * 
+ * @FindBy(xpath = "New Customer") WebElement newcust;
+ */
+	
 }
